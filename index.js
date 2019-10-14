@@ -1,0 +1,3 @@
+document.getElementById("countButton").onclick = function() {
+    // your code will go here ...
+ }
